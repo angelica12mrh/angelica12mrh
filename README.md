@@ -1,6 +1,6 @@
 👯
 
-Hola, soy Angélica
+Hola, soy Angélica.
 
 En estos momentos estoy aprendiendo frontend en platzi.
 
