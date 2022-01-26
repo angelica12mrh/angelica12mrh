@@ -1,4 +1,4 @@
-👯
+#   Acerca de mí 👯
 
 Hola, soy Angélica.
 
