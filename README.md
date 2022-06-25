@@ -1,16 +1,31 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
-  <samp>
-    :wave: Hola, soy Angelica.
-    <br>En estos momentos estoy aprendiendo desarrollo wed frontend
-      <br> Estoy estudiando ingenieria de sistemas, en la universidad ean
+
+ <div align="center">
+      <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></div>
+    <div align="center">
+      <h1>:wave: Hola, soy Angelica Maria Rodriguez Herandez</h1></div>
+     <div align="center">
+      <p>Actualmente estudio ingenieria de sistemas en la Universidd EAN
+       </div>
+       
+   <div align="center">
+      <h3>Idiomas de programacion</h3>
+  <a href="https://platzi.com/cursos/html-css/">
+      <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" alt="ig" width="60" height="60"></a>
+  <a href="https://platzi.com/cursos/html-css/">
+      <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="ig" width="60" height="60"></a>
+   <a href="https://platzi.com/clases/1050-programacion-basica/5110-html-css-javascript-de-verdad/">
+      <img src="https://ih1.redbubble.net/image.815350031.4911/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg" alt="ig" width="60" height="60"></a>
+      </div>
+          
+   <div align="center">
+      <h3>Me puedes contactar</h3>
+      <a href="https://www.instagram.com/angemar.r/">
+      <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="ig" width="60" height="60"></a>
+  <a href="https://twitter.com/angelica12mrh">
+      <img src="https://w7.pngwing.com/pngs/529/867/png-transparent-computer-icons-logo-twitter-miscellaneous-blue-logo-thumbnail.png" alt="ig" width="60" height="60"></a>
+  <a href="https://www.facebook.com/profile.php?id=100048357851633">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/800px-Facebook_logo_%28square%29.png" alt="ig" width="60" height="60"></a>
+    </div>   
     
-   <p align="center">
-   <img src="https://cdn2.downdetector.com/static/uploads/c/300/0d4f7/figma2.png" width="48"> <img src="https://iconape.com/wp-content/files/ex/350844/svg/350844.svg" width="48"> <img src="https://w7.pngwing.com/pngs/462/874/png-transparent-instagram-logo-icon-instagram-icon-text-logo-sticker-thumbnail.png" width="48"> 
-
-   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317p2shsguq37iz73t7ebuoowfua&cover_image=true&theme=novatorem&bar_color=eec3ef&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317p2shsguq37iz73t7ebuoowfua&redirect=true)
-
-#
- ![image](https://682430.smushcdn.com/1763018/wp-content/uploads/2017/09/logotipo-evolucion-videojuegos-pong-nolan-bushnell-atari.gif?lossy=1&strip=1&webp=1)
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317p2shsguq37iz73t7ebuoowfua&cover_image=true&theme=novatorem&bar_color=eec3ef&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317p2shsguq37iz73t7ebuoowfua&redirect=true)
+    
