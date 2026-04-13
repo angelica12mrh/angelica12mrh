@@ -4,7 +4,7 @@
     <div align="center">
       <h1>:wave: Hola, soy Angelica Maria Rodriguez Herandez</h1></div>
      <div align="center">
-      <p>Actualmente estudio ingenieria de sistemas en la Universidd EAN
+      <p>Actualmente estudio ingenieria de sistemas en la Universidad EAN
        </div>
        
    <div align="center">
