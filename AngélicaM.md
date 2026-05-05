@@ -1,31 +1,36 @@
-
-<!-- HEADER ANIMADO -->
+<!-- HEADER BONITO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Angelica%20Maria%20Rodriguez&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d6d&height=200&section=header&text=Angelica%20Maria%20Rodriguez&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <!-- SALUDO -->
-<h1 align="center">❤️ Hola, soy Angélica María Rodríguez</h1>
-<h3 align="center">🚀 Ingeniera en Datos & Sistemas | Amante de la F1 🏎️</h3>
+<h1 align="center">🌸 Hola, soy Angélica María Rodríguez</h1>
+<h3 align="center">💖 Ingeniera en Datos & Sistemas | 🏎️ F1 lover</h3>
 
 ---
 
 <!-- SOBRE MI -->
-## 💡 Sobre mí
-- 🎓 Ingeniería de Sistemas  
-- 📊 Apasionada por los datos, automatización y análisis  
-- 🏎️ Fan de la Fórmula 1 (sí, también hago "oráculos" de F1 😏)  
-- 🔥 Me encanta crear proyectos útiles y visuales  
-- 🌱 Siempre aprendiendo nuevas tecnologías  
+## 🌷 Sobre mí
+
+- 🎓 Estudiante de Ingeniería de Sistemas  
+- 📊 Apasionada por el análisis de datos  
+- 🏎️ Fan de la Fórmula 1 (haciendo mis propios "oráculos")  
+- ✨ Me gustan los proyectos creativos y bonitos  
+- 🌱 Aprendiendo algo nuevo cada día  
 
 ---
 
 <!-- TECNOLOGIAS -->
-## 🚀 Tecnologías & Lenguajes
+## 💻 Lenguajes & Herramientas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,sql,git,github" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-ff4d6d?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-ff4d6d?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 </div>
 
@@ -36,43 +41,23 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&title_color=ff4d6d&icon_color=ff4d6d" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&title_color=ff0000" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&title_color=ff4d6d" height="150"/>
 
 </div>
 
 ---
 
 <!-- PROYECTOS -->
-## 🧪 Proyectos destacados
+## 🧁 Proyectos
 
-🚧 Aquí puedes mostrar tus mejores proyectos (ejemplo):
+💡 Algunos proyectos que me representan:
 
-- 📊 Proyecto de análisis de datos  
-- 🤖 Automatización con Python  
-- 🏎️ Predicciones / oráculos F1  
-
----
-
-<!-- CONTACTO -->
-## 📬 Contáctame
-
-<div align="center">
-
-<a href="https://www.instagram.com/angemar.r/">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>
-
-<a href="https://twitter.com/angelica12mrh">
-<img src="https://skillicons.dev/icons?i=twitter" height="50"/>
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100048357851633">
-<img src="https://skillicons.dev/icons?i=facebook" height="50"/>
-</a>
-
-</div>
+- 📊 Análisis de datos  
+- 🐍 Automatización con Python  
+- 🏎️ Predicciones de Fórmula 1  
+- 🗄️ Bases de datos (MySQL & Oracle)  
 
 ---
 
@@ -81,7 +66,7 @@
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317p2shsguq37iz73t7ebuoowfua&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317p2shsguq37iz73t7ebuoowfua&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317p2shsguq37iz73t7ebuoowfua&cover_image=true&theme=novatorem&bar_color=ff4d6d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317p2shsguq37iz73t7ebuoowfua&redirect=true)
 
 </div>
 
@@ -89,5 +74,5 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d6d&height=120&section=footer"/>
 </div>
