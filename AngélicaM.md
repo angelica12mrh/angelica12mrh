@@ -5,6 +5,8 @@
 <h1 align="center">🌸 Hola, soy Angélica María Rodríguez</h1>
 <h3 align="center">💖 Ingeniera en Datos & Sistemas | 🏎️ F1 lover</h3>
 
+---
+
 ## 🌷 Sobre mí
 
 - 🎓 Estudiante de Ingeniería de Sistemas  y ciencia en datos
